@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API</string>
+    <string name="ultimaUbicacion">Última ubicación conocida: </string>
+    <string name="primerAparicion">Primer aparición en: </string>
+</resources>
